@@ -1,2 +1,0 @@
-# tomcat1
-deploy
